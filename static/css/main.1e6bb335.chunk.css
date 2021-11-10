@@ -1,0 +1,2 @@
+body{margin:0;background-color:bisque}.App{display:flex;flex-direction:column;justify-content:center;align-items:center;height:100vh;font-size:40px;text-align:center}.App__wrap-btn{display:flex;grid-gap:20px;gap:20px}.App__btn{padding:10px 20px;font-size:20px;background-color:#5f9ea0;border:2px solid transparent;border-radius:20px;transition:transform .5s;cursor:pointer}.App__btn:hover{transform:scale(1.1);border:2px solid #ff0}
+/*# sourceMappingURL=main.1e6bb335.chunk.css.map */
